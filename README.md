@@ -1,2 +1,3 @@
 # Stock_Market_Data_Analysis
-This project focusses on analysing the stock market data for a particular time period for some specific stocks. 
+
+This project focusses on analysing the stock market data for a particular time period for some specific stocks. Data is read and collected directly from internet using Pandas datareader. Stock data is collected for six major banking stocks namely Bank of America, Citigroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley and Wells Fargo using Yahoo Finance API. Exploratory data analysis is carried out for analyzing individual stock performances over a period of time. Various interactive plots are generated using Plotly and Cufflinks library. A linear regression model is also generated for estimating closing price of some stocks. 
