@@ -1,2 +1,2 @@
 # Stock_Market_Data_Analysis
-Project focussing on analysis of stock market data.
+This project focusses on analysing the stock market data for a particular time period for some specific stocks. 
